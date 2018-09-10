@@ -1,2 +1,2 @@
 # ToDoList
-Simple web app to help you make your to do list
+Web app styled with CSS and fonts awesome. Script written using jQuery
